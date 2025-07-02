@@ -6,3 +6,4 @@ langchain_text_splitters==0.3.8
 python-dotenv==1.1.1
 streamlit==1.45.1
 sympy==1.14.0
+pdfplumber=0.11.6
